@@ -1,6 +1,7 @@
 ## Hi there 👋
+- 💬 I'm a software developer always looking for opportunities to grow my technical and soft skills 
 - 🔭 I’m currently working on
-      EZPharma, an app to help senior patients streamline their medical needs 
+      EZPharma, an app to help senior patients streamline their medical needs
 - 🌱 I’m currently learning: C#, building RestFul applications, and Python
 - 📫 How to reach me: Email: zeemalsami@gmail.com, Linkedin: www.linkedin.com/in/zeemal-sami-b49132127
 
